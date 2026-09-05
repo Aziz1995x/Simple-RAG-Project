@@ -17,6 +17,7 @@ dependencies = [
     "docx2txt",
     "python-docx",
     "fpdf>=1.7.2",
+    "ipykernel>=7.3.0",
 ]
 
 [build-system]
